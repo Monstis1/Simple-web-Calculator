@@ -37,4 +37,4 @@ Pull requests are welcome. So if you've got an idea of how to improve this code,
 
 ## License
 
-#### MIT © [Luciano Esteban](https://github.com/LucioFex)
+#### MIT © [Monstis](https://github.com/Monstis1)
